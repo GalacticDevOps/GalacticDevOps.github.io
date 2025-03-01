@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 眸のBlog</title>
+    <link>https://galacticdevops.github.io/posts/</link>
+    <description>Recent content in Posts on 眸のBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 - 2025 蒼眸さん All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 16:41:19 +0800</lastBuildDate><atom:link href="https://galacticdevops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>如何使用 Github Page 搭建自己的博客</title>
+      <link>https://galacticdevops.github.io/posts/how-bulid-blog-on-github-page/</link>
+      <pubDate>Sat, 01 Mar 2025 16:41:19 +0800</pubDate>
+      
+      <guid>https://galacticdevops.github.io/posts/how-bulid-blog-on-github-page/</guid>
+      <description>Test</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://galacticdevops.github.io/posts/how-bulid-blog-on-github-page/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
